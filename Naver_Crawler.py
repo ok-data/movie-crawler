@@ -2,8 +2,6 @@ import requests
 import pandas as pd
 import datetime
 from bs4 import BeautifulSoup
-import time
-import random
 
 movie_data = pd.read_csv("./csv/15_final.csv", encoding='utf-8')
 director_data = pd.read_csv("./ipynb/15_missing.csv", encoding='utf-8')
