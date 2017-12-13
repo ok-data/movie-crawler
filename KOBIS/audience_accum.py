@@ -2,13 +2,13 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import datetime
 
-movie_12_17 = pd.read_csv('../2012-2017_kobis_movies.csv', encoding='utf-8')
+movie_12_17 = pd.read_csv('../csv/2012-2017_kobis_movies.csv', encoding='utf-8')
 
 # 14일차 날짜 변환
 def day14_convert(release_date):
     con_release_date = datetime.datetime.strptime(release_date, "%Y-%m-%d").date()
     day14_release_date = con_release_date + datetime.timedelta(days=13)
-    day14 = day15_release_date.strftime('%Y-%m-%d')
+    day14 = day14_release_date.strftime('%Y-%m-%d')
     return day14
 
 movie_day_df = pd.DataFrame(columns=['movie_name',
@@ -41,15 +41,12 @@ for row in movie_12_17.itertuples():
         table = soup.find('table', class_='boardList02')
         tbody = table.find('tbody')
 
-        day8_assume = day8_convert(release_date) ## 8일차 날짜
-        day15_assume = day15_convert(release_date) ## 15일차 날짜
+        day14_assume = day14_convert(release_date) ## 15일차 날짜
 
         day1_screen = 0
         day1_audience = 0
-        day8_audience = 0
-        day8_screen = 0
-        day15_screen = 0
-        day15_audience = 0
+        day14_screen = 0
+        day14_audience = 0
 
 
         for tr in tbody.find_all('tr'): ## 여기서 한줄씩
@@ -62,13 +59,9 @@ for row in movie_12_17.itertuples():
                 day1_screen = tr_list[1] ### 스크린수
                 day1_audience = (tr_list[9]).replace(',','') ### 당일 관객
 
-            elif(day8_assume == tr_list[0]):
-                day8_screen = tr_list[1]
-                day8_audience = (tr_list[12]).replace(',','')
-
-            elif(day15_assume == tr_list[0]):
-                day15_screen = tr_list[1]
-                day15_audience = (tr_list[12]).replace(',','')
+            elif(day14_assume == tr_list[0]):
+                day14_screen = tr_list[1]
+                day14_audience = (tr_list[12]).replace(',','')
         movie_day_df.loc[df_row]=[movie_name,
                                   movie_code,
                                   director_name,
@@ -78,13 +71,12 @@ for row in movie_12_17.itertuples():
                                   day1_date,
                                   day1_screen,
                                   day1_audience,
-                                  day8_assume,
-                                  day8_audience,
-                                  day15_assume,
-                                  day15_audience
+                                  day14_assume,
+                                  day14_audience
                                  ]
         df_row +=1
-        print(df_row,end='\r')
+        print(df_row)
     except:
         print(movie_code)
         pass
+movie_day_df.to_csv("../csv/day14_movie_data.csv")
