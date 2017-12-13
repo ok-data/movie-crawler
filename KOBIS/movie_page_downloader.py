@@ -57,5 +57,5 @@ for i in range(1, 658):
                                       nation
                                       ]
         movie_df_len += 1
-
-movie_df.to_csv("../csv/movie_default_data.csv", encoding="utf-8")
+    print(i)
+movie_df.to_csv("../csv/2012-2017_kobis_movies.csv", encoding="utf-8")
