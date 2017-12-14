@@ -130,6 +130,3 @@ if __name__ == "__main__":
             loop_director.run_until_complete(asyncio.wait(tasks))
             tasks = []
             loop_director.close()
-
-            director_sum = pd.DataFrame(columns=['movie_name', 'director_average'])
-

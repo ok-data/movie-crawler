@@ -1,9 +1,11 @@
-import aiohttp
 import asyncio
-import lxml
 from aiohttp import ClientSession
 from bs4 import BeautifulSoup
 import pandas as pd
+from selenium import webdriver
+import time
+
+driver = webdriver.Chrome(executable_path="/Users/khk/Applications/chromedriver")
 
 total_actor_code_df = pd.read_csv('./csv/14_actor_code.csv', encoding='utf-8')
 
@@ -11,7 +13,7 @@ async def fetch(link, director_code, filmo_name, index, movie_code):
     async with ClientSession() as session:
         async with session.get(link) as response:
             html = await response.read()
-
+            # time.sleep(0.5)
             soup = BeautifulSoup(html, "lxml")
 
             tbody = soup.findAll('em', class_='tl')
