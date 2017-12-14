@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 
-movie_released_df = pd.read_csv('../csv/2012-2017_kobis_movies.csv', encoding='utf-8')
+movie_released_df = pd.read_csv('./csv/2012-2017_kobis_movies.csv', encoding='utf-8')
 
 base = 'http://kobis.or.kr/kobis/business/mast/mvie/searchMovieDtlXls.do?'
 
@@ -22,9 +22,9 @@ for code in code_list:
     param = 'code=%s&sType=box' % movie_code
 
     req = requests.get(base, params=param, headers=headers)
-    content = req.content
-    f = open('./movie_box/%s.html' % movie_code, 'w')
-    f.write(str(content))
+
+    f = open('./KOBIS/movie_box/%s.html' % movie_code, 'w')
+    f.write(req.text)
     f.close()
 
-    print(i)
+    print(i, end='\r')

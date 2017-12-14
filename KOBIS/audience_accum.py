@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import datetime
 
-movie_12_17 = pd.read_csv('../csv/2012-2017_kobis_movies.csv', encoding='utf-8')
+movie_12_17 = pd.read_csv('./csv/2012-2017_kobis_movies.csv', encoding='utf-8')
 
 # 14일차 날짜 변환
 def day14_convert(release_date):
@@ -35,7 +35,7 @@ for row in movie_12_17.itertuples():
         nation = getattr(row,'nation')
         release_date = getattr(row,'release_date') ## %Y-%m-%d
 
-        file = open('./movie_box/%s.html' % movie_code)
+        file = open('./KOBIS/movie_box/%s.html' % movie_code)
         soup = BeautifulSoup(file,'lxml')
 
         table = soup.find('table', class_='boardList02')
@@ -79,4 +79,4 @@ for row in movie_12_17.itertuples():
     except:
         print(movie_code)
         pass
-movie_day_df.to_csv("../csv/day14_movie_data.csv")
+movie_day_df.to_csv("./csv/day14_movie_data.csv")

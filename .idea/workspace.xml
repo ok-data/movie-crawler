@@ -2,12 +2,109 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8f1f6a4-d79b-4b6f-b13e-2823aaa6d0ee" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/14_actor_code.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/14_actor_missing.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/movie_missing.py" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/KOBIS/audience_accum.py" afterPath="$PROJECT_DIR$/KOBIS/audience_accum.py" />
       <change beforePath="$PROJECT_DIR$/KOBIS/movie_box.py" afterPath="$PROJECT_DIR$/KOBIS/movie_box.py" />
-      <change beforePath="$PROJECT_DIR$/KOBIS/movie_box/20113652.html" afterPath="$PROJECT_DIR$/KOBIS/movie_box/20113652.html" />
-      <change beforePath="$PROJECT_DIR$/movie_lists_html/1.html" afterPath="$PROJECT_DIR$/movie_lists_html/1.html" />
+      <change beforePath="$PROJECT_DIR$/KOBIS/movie_box/20113652.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_all_data.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/1.html" afterPath="$PROJECT_DIR$/14_actor_avg.py" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/10.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/11.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/12.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/13.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/14.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/15.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/16.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/17.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/18.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/19.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/20.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/21.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/22.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/23.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/24.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/25.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/26.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/27.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/28.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/29.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/3.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/30.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/31.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/32.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/33.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/34.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/35.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/36.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/37.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/38.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/39.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/4.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/40.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/41.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/42.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/43.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/44.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/45.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/46.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/47.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/48.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/49.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/5.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/50.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/51.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/52.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/53.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/54.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/55.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/56.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/57.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/58.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/59.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/6.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/60.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/61.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/62.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/63.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/64.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/65.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/66.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/67.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/68.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/69.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/7.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/70.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/71.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/72.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/73.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/74.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/75.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/76.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/77.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/78.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/79.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/8.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/80.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/81.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/82.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/83.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/84.html" afterPath="$PROJECT_DIR$/14_director.py" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/85.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/86.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/87.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/88.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/89.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/9.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/90.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/91.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/92.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/93.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/movie_lists_html/94.html" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,34 +115,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="movie_box.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KOBIS/movie_box.py">
+      <file leaf-file-name="14_director.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/14_director.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+            <state relative-caret-position="496">
+              <caret line="134" column="0" lean-forward="false" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="audience_accum.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/KOBIS/audience_accum.py">
+      <file leaf-file-name="14_actor_code.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/14_actor_code.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="689">
-              <caret line="76" column="18" lean-forward="true" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
-              <folding />
+            <state relative-caret-position="316">
+              <caret line="76" column="30" lean-forward="false" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day14_movie_data.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/csv/day14_movie_data.csv">
+      <file leaf-file-name="14_actor_avg.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/14_actor_avg.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="423">
+              <caret line="109" column="33" lean-forward="true" selection-start-line="109" selection-start-column="33" selection-end-line="109" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14일차_배우관객평균_비동기.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ipynb/14일차_배우관객평균_비동기.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="9" />
             </state>
           </provider>
         </entry>
@@ -62,6 +172,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>day14</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -78,14 +189,15 @@
         <option value="$PROJECT_DIR$/KOBIS/movie_page_downloader.py" />
         <option value="$PROJECT_DIR$/KOBIS/movie_box.py" />
         <option value="$PROJECT_DIR$/KOBIS/audience_accum.py" />
+        <option value="$PROJECT_DIR$/14_director.py" />
+        <option value="$PROJECT_DIR$/14_actor.py" />
+        <option value="$PROJECT_DIR$/14_actor_avg.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="1440" />
-    <option name="y" value="-300" />
-    <option name="width" value="958" />
-    <option name="height" value="1200" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -143,11 +255,6 @@
               <item name="movie-crawler" type="462c0819:PsiDirectoryNode" />
               <item name="csv" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="movie-crawler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="movie-crawler" type="462c0819:PsiDirectoryNode" />
-              <item name="KOBIS" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -156,7 +263,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="last_opened_file_path" value="$USER_HOME$/Anaconda3/python.exe" />
   </component>
   <component name="RecentsManager">
@@ -181,12 +288,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.audience_accum">
-    <configuration name="Naver_Crawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.14_actor_avg">
+    <configuration name="14_actor (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_LOAD_VALUES_ASYNC" value="True" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Movie_crawler" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_actor_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="14_actor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_LOAD_VALUES_ASYNC" value="True" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -194,9 +321,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Movie_crawler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Naver_Crawler.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_actor_missing.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="14_actor_avg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_LOAD_VALUES_ASYNC" value="True" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Movie_crawler" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_actor_avg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
@@ -213,24 +359,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Movie_crawler" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KOBIS/audience_accum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="movie_all_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Movie_crawler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/movie_all_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,38 +382,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="movie_page_downloader" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KOBIS" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Movie_crawler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KOBIS/movie_page_downloader.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Naver_Crawler" />
-      <item index="1" class="java.lang.String" itemvalue="Python.movie_page_downloader" />
-      <item index="2" class="java.lang.String" itemvalue="Python.movie_box" />
-      <item index="3" class="java.lang.String" itemvalue="Python.movie_all_data" />
-      <item index="4" class="java.lang.String" itemvalue="Python.audience_accum" />
+      <item index="0" class="java.lang.String" itemvalue="Python.movie_box" />
+      <item index="1" class="java.lang.String" itemvalue="Python.audience_accum" />
+      <item index="2" class="java.lang.String" itemvalue="Python.14_actor" />
+      <item index="3" class="java.lang.String" itemvalue="Python.14_actor (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.14_actor_avg" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.audience_accum" />
-        <item index="1" class="java.lang.String" itemvalue="Python.movie_box" />
-        <item index="2" class="java.lang.String" itemvalue="Python.movie_all_data" />
-        <item index="3" class="java.lang.String" itemvalue="Python.movie_page_downloader" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Naver_Crawler" />
+        <item index="0" class="java.lang.String" itemvalue="Python.14_actor_avg" />
+        <item index="1" class="java.lang.String" itemvalue="Python.14_actor (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.14_actor" />
+        <item index="3" class="java.lang.String" itemvalue="Python.movie_box" />
+        <item index="4" class="java.lang.String" itemvalue="Python.audience_accum" />
       </list>
     </recent_temporary>
   </component>
@@ -338,30 +448,37 @@
       <option name="project" value="LOCAL" />
       <updated>1513178204696</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added header">
+      <created>1513184270004</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1513184270004</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="-300" width="1920" height="1200" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12447917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16597222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23913044" sideWeight="0.5062631" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956523" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23913044" sideWeight="0.49373695" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23764706" sideWeight="0.5090278" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32940108" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3609375" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4164706" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34117648" sideWeight="0.49097222" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29704985" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39979655" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39979655" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956523" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -372,61 +489,15 @@
     <MESSAGE value="changed csv file name" />
     <MESSAGE value="naver news count article number" />
     <MESSAGE value="New movie crawling method" />
-    <option name="LAST_COMMIT_MESSAGE" value="New movie crawling method" />
+    <MESSAGE value="added header" />
+    <option name="LAST_COMMIT_MESSAGE" value="added header" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/movie_all_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/KOBIS/movie_page_downloader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="59" column="12" lean-forward="true" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Naver_Crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/csv/2012-2017_kobis_movies.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie_all_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/movie_all_data.py" />
     <entry file="file://$PROJECT_DIR$/Google_Search.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -438,22 +509,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="27" column="14" lean-forward="true" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/movie_all_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/movie_all_data.py" />
     <entry file="file://$PROJECT_DIR$/Google_Search.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -465,22 +524,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="73" column="14" lean-forward="true" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/movie_all_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/movie_all_data.py" />
     <entry file="file://$PROJECT_DIR$/pytrends_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -495,26 +542,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/movie_all_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie_all_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/movie_all_data.py" />
+    <entry file="file://$PROJECT_DIR$/movie_all_data.py" />
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1746">
@@ -533,13 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="57" lean-forward="true" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytrends_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -577,7 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -585,7 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -593,79 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie_all_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/KOBIS/movie_box/20078827.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#6;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#1;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#1;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#6;n#tr#1;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#2;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#2;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#6;n#tr#2;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#3;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#3;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#6;n#tr#3;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#4;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#4;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#6;n#tr#4;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#5;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#5;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#6;n#tr#5;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#6;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#6;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#6;n#tr#6;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#7;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#7;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#6;n#tr#7;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#8;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#8;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#6;n#tr#8;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#9;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#9;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#6;n#tr#9;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#10;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#10;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#6;n#tr#10;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#11;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#11;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#6;n#tr#11;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#12;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#12;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#6;n#tr#12;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#13;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#13;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#6;n#tr#13;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#14;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#14;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#6;n#tr#14;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#15;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#15;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#6;n#tr#15;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#16;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#16;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#6;n#tr#16;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -673,7 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -681,16 +627,114 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie_lists_html/78.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15837">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KOBIS/movie_box/19848092.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KOBIS/movie_box/20021261.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KOBIS/movie_box/20165981.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KOBIS/movie_box/20166070.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KOBIS/movie_box/20166063.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KOBIS/movie_box/20165982.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KOBIS/movie_box/20165968.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KOBIS/movie_box/20165973.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KOBIS/movie_box/20166023.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-597">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KOBIS/movie_box/20078827.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KOBIS/movie_box/20113671.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KOBIS/movie_box/20112018.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie_all_data.py" />
+    <entry file="file://$PROJECT_DIR$/pytrends_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/KOBIS/movie_box.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
-          <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -703,11 +747,82 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/14_director.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="134" column="0" lean-forward="false" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/KOBIS/audience_accum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="76" column="18" lean-forward="true" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
+        <state relative-caret-position="1004">
+          <caret line="81" column="43" lean-forward="false" selection-start-line="81" selection-start-column="27" selection-end-line="81" selection-end-column="43" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv/director14.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14_actor_missing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1256">
+          <caret line="85" column="24" lean-forward="false" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv/14_actor_code.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv/14_missing.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14_actor_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="76" column="30" lean-forward="false" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ipynb/14일차_배우관객평균_비동기.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14_actor_avg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="109" column="33" lean-forward="true" selection-start-line="109" selection-start-column="33" selection-end-line="109" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
