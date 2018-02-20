@@ -22,7 +22,7 @@ class released_movies(scrapy.Spider):
 
 	def parse(self, response):
 		hxs = Selector(response)
-		
+	
 	
 		selects = []
 		selects = hxs.xpath('//table[@border="1"]/tbody/tr')
@@ -37,21 +37,18 @@ class released_movies(scrapy.Spider):
 
 #			movie_info = select.xpath('//td//a[re:test(@onclick,"\d+")])').extract()
 
-			
-
 			for a in select.xpath('td/a'):
 			
 				if 'movie' in a['onclick']:
 					item['movie_name'] = select.xpath(
 					item['movie_code'] = (re.search(r'\d+', a['onclick']).group())
-					
 		
-		#	item['movie_name'] = sel.xpath('td/a')
-		#	item['movie_code'] = 
-		#	item['dir_name'] = 
-		#	item['dir_code'] = 
-		#	item['release_year'] =
-		#	item['nation'] =
+			# item['movie_name'] = sel.xpath('td/a')
+			# item['movie_code'] = 
+			# item['dir_name'] = 
+			# item['dir_code'] = 
+			# item['release_year'] =
+			# item['nation'] =
 
 
 		
