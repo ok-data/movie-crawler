@@ -15,9 +15,8 @@ code_list = movie_released_df['movie_code']
 
 i = 0
 
-for code in code_list:
+for movie_code in code_list:
     i += 1
-    movie_code = code
 
     param = 'code=%s&sType=box' % movie_code
 
